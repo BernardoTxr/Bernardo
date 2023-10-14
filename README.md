@@ -1,2 +1,2 @@
 # BernardoTeixeira.github.io
-oi
+Essa página constituirá meu portifólio
